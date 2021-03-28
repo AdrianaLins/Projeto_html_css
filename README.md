@@ -1,6 +1,6 @@
 # Projeto_html_css
 Projeto simples mostrando um desenvolvimento web feito com HTML e CSS. 
-Essas são as três telas que fiz, uma interagindo com a outra: HOME | LOCALIZAÇÃO | CONTATO
+Essas são as três telas que fiz, uma interagindo com a outra: Home | Localização| Contato
 
 
 
